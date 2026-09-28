@@ -1,7 +1,5 @@
-version: 2026.232.0520
 check-substrate-layer:
     candy:
-        version: 2026.182.1200
         description: |
             Drop /etc/check-substrate-marker on the host filesystem.
             The deployable member of the check-substrate R10 bed (C2-substrate — the externalized
